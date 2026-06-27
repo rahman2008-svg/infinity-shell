@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Shell",
+  "description": "A powerful terminal emulator and Linux-like environment for Android with an extensive command suite, package manager, interactive REPLs, and built-in AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
